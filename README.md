@@ -1,5 +1,9 @@
 # Template: Standard Robot Framework
-
+Orders robots from RobotSpareBin Industries Inc.
+...               Saves the order HTML receipt as a PDF file.
+...               Saves the screenshot of the ordered robot.
+...               Embeds the screenshot of the robot to the PDF receipt.
+...               Creates ZIP archive of the receipts and the images.
 Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
 
 This template robot:
